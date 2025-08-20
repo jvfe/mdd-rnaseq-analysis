@@ -1,8 +1,8 @@
-paper_title: Drug-tolerant persister RNA-seq reveals transcriptional shift
-doi: 10.1101/2024.06.15.123456
-data_source: "SRA: SRP456789"
+paper_title: Sex-specific gene expression differences in the prefrontal cortex of major depressive disorder individuals
+doi: 10.1016/j.neuroscience.2024.09.012
+data_source: "SRA: SRP115956"
 domain: rna_seq
-ref_genome: H37Rv (ASM19595v2)
-tools: [fastp 0.23.4, bwa 0.7.17, samtools 1.20, featureCounts 2.0.4, DESeq2 1.40.2]
-estimated_runtime_minutes: 45
-estimated_time_for_human: 50
+ref_genome: GRCh38
+tools: [fastp 0.23.4, fastqc 0.11.8, kallisto 0.50.1, tximport 2.0.4, MultiQC 1.14, edgeR, clusterProfiler]
+estimated_runtime_minutes: 100
+estimated_time_for_human: 120

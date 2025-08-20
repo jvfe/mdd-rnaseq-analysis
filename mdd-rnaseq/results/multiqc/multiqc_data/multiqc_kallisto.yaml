@@ -1,0 +1,36 @@
+SRR5961980_T1_1:
+  fragment_length: 159.0
+  not_pseudoaligned_reads: 862472.0
+  percent_aligned: 67.58544097446025
+  pseudoaligned_reads: 1798283.0
+  total_reads: 2660755.0
+SRR5961981_T1_1:
+  fragment_length: 142.7
+  not_pseudoaligned_reads: 875145.0
+  percent_aligned: 53.97430456178438
+  pseudoaligned_reads: 1026282.0
+  total_reads: 1901427.0
+SRR5961982_T1_1:
+  fragment_length: 152.0
+  not_pseudoaligned_reads: 853217.0
+  percent_aligned: 58.174776147352055
+  pseudoaligned_reads: 1186741.0
+  total_reads: 2039958.0
+SRR5962008_T1_1:
+  fragment_length: 138.6
+  not_pseudoaligned_reads: 1455673.0
+  percent_aligned: 46.56131447581246
+  pseudoaligned_reads: 1268333.0
+  total_reads: 2724006.0
+SRR5962009_T1_1:
+  fragment_length: 147.5
+  not_pseudoaligned_reads: 1564130.0
+  percent_aligned: 41.92741158496401
+  pseudoaligned_reads: 1129275.0
+  total_reads: 2693405.0
+SRR5962010_T1_1:
+  fragment_length: 154.8
+  not_pseudoaligned_reads: 1727247.0
+  percent_aligned: 43.571741031656394
+  pseudoaligned_reads: 1333714.0
+  total_reads: 3060961.0

@@ -1,0 +1,186 @@
+SRR5961980_T1:
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-avg_sequence_length': 49.0485257004121
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-median_sequence_length': 50
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_duplicates': 20.49027743200476
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_fails': 0.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_gc': 46.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-total_sequences': 2660755.0
+  fastp_mqc-generalstats-fastp-after_filtering_gc_content: 0.447337
+  fastp_mqc-generalstats-fastp-after_filtering_q30_bases: 239428842.0
+  fastp_mqc-generalstats-fastp-after_filtering_q30_rate: 0.923848
+  fastp_mqc-generalstats-fastp-filtering_result_passed_filter_reads: 5321510.0
+  fastp_mqc-generalstats-fastp-pct_adapter: 0.7630806783426574
+  fastp_mqc-generalstats-fastp-pct_duplication: 4.60059
+  fastp_mqc-generalstats-fastp-pct_surviving: 97.22600825090348
+SRR5961980_T1_1:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 21.26112140125535
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 9.090909090909092
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 45.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 2736670.0
+  Kallisto_mqc-generalstats-kallisto-fragment_length: 159.0
+  Kallisto_mqc-generalstats-kallisto-percent_aligned: 67.58544097446025
+  Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads: 1798283.0
+SRR5961980_T1_2:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 15.258008449089246
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 18.181818181818183
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 43.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 2736670.0
+SRR5961981_T1:
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-avg_sequence_length': 48.59496735872584
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-median_sequence_length': 50
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_duplicates': 9.664029020098994
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_fails': 0.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_gc': 42.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-total_sequences': 1901427.0
+  fastp_mqc-generalstats-fastp-after_filtering_gc_content: 0.434567
+  fastp_mqc-generalstats-fastp-after_filtering_q30_bases: 173847436.0
+  fastp_mqc-generalstats-fastp-after_filtering_q30_rate: 0.935581
+  fastp_mqc-generalstats-fastp-filtering_result_passed_filter_reads: 3802854.0
+  fastp_mqc-generalstats-fastp-pct_adapter: 1.3972326594272362
+  fastp_mqc-generalstats-fastp-pct_duplication: 2.85457
+  fastp_mqc-generalstats-fastp-pct_surviving: 97.68129656286314
+SRR5961981_T1_1:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 13.59581335901943
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 9.090909090909092
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 44.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 1946562.0
+  Kallisto_mqc-generalstats-kallisto-fragment_length: 142.7
+  Kallisto_mqc-generalstats-kallisto-percent_aligned: 53.97430456178438
+  Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads: 1026282.0
+SRR5961981_T1_2:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 9.936078994701916
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 9.090909090909092
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 42.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 1946562.0
+SRR5961982_T1:
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-avg_sequence_length': 49.12139269533981
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-median_sequence_length': 50
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_duplicates': 14.507020787394566
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_fails': 0.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_gc': 44.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-total_sequences': 2039958.0
+  fastp_mqc-generalstats-fastp-after_filtering_gc_content: 0.43647
+  fastp_mqc-generalstats-fastp-after_filtering_q30_bases: 186282887.0
+  fastp_mqc-generalstats-fastp-after_filtering_q30_rate: 0.935037
+  fastp_mqc-generalstats-fastp-filtering_result_passed_filter_reads: 4079916.0
+  fastp_mqc-generalstats-fastp-pct_adapter: 1.3400905316655207
+  fastp_mqc-generalstats-fastp-pct_duplication: 2.9567699999999997
+  fastp_mqc-generalstats-fastp-pct_surviving: 97.54954327702441
+SRR5961982_T1_1:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 14.961831996212396
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 9.090909090909092
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 44.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 2091202.0
+  Kallisto_mqc-generalstats-kallisto-fragment_length: 152.0
+  Kallisto_mqc-generalstats-kallisto-percent_aligned: 58.174776147352055
+  Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads: 1186741.0
+SRR5961982_T1_2:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 10.658380862294408
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 18.181818181818183
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 42.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 2091202.0
+SRR5962008_T1:
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-avg_sequence_length': 48.95411537272678
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-median_sequence_length': 50
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_duplicates': 4.186799661146438
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_fails': 0.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_gc': 44.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-total_sequences': 2724006.0
+  fastp_mqc-generalstats-fastp-after_filtering_gc_content: 0.436543
+  fastp_mqc-generalstats-fastp-after_filtering_q30_bases: 244681874.0
+  fastp_mqc-generalstats-fastp-after_filtering_q30_rate: 0.927149
+  fastp_mqc-generalstats-fastp-filtering_result_passed_filter_reads: 5448012.0
+  fastp_mqc-generalstats-fastp-pct_adapter: 1.594050786024316
+  fastp_mqc-generalstats-fastp-pct_duplication: 2.59415
+  fastp_mqc-generalstats-fastp-pct_surviving: 95.58851550730756
+SRR5962008_T1_1:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 4.0163451937530255
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 9.090909090909092
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 44.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 2849721.0
+  Kallisto_mqc-generalstats-kallisto-fragment_length: 138.6
+  Kallisto_mqc-generalstats-kallisto-percent_aligned: 46.56131447581246
+  Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads: 1268333.0
+SRR5962008_T1_2:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 6.2834579591127095
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 27.27272727272727
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 42.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 2849721.0
+SRR5962009_T1:
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-avg_sequence_length': 49.04571611027677
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-median_sequence_length': 50
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_duplicates': 3.6401220712087223
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_fails': 0.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_gc': 44.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-total_sequences': 2693405.0
+  fastp_mqc-generalstats-fastp-after_filtering_gc_content: 0.431118
+  fastp_mqc-generalstats-fastp-after_filtering_q30_bases: 242252669.0
+  fastp_mqc-generalstats-fastp-after_filtering_q30_rate: 0.927167
+  fastp_mqc-generalstats-fastp-filtering_result_passed_filter_reads: 5386810.0
+  fastp_mqc-generalstats-fastp-pct_adapter: 1.11323580706846
+  fastp_mqc-generalstats-fastp-pct_duplication: 2.0900700000000003
+  fastp_mqc-generalstats-fastp-pct_surviving: 95.57246323071513
+SRR5962009_T1_1:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 3.489464386002922
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 9.090909090909092
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 44.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 2818181.0
+  Kallisto_mqc-generalstats-kallisto-fragment_length: 147.5
+  Kallisto_mqc-generalstats-kallisto-percent_aligned: 41.92741158496401
+  Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads: 1129275.0
+SRR5962009_T1_2:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 5.354054524814913
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 27.27272727272727
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 42.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 2818181.0
+SRR5962010_T1:
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-avg_sequence_length': 49.11149897042138
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-median_sequence_length': 50
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_duplicates': 11.226295377775301
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_fails': 0.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-percent_gc': 44.0
+  'FastQC: after preprocessing_mqc-generalstats-fastqc_after_preprocessing-total_sequences': 3060961.0
+  fastp_mqc-generalstats-fastp-after_filtering_gc_content: 0.430279
+  fastp_mqc-generalstats-fastp-after_filtering_q30_bases: 273700799.0
+  fastp_mqc-generalstats-fastp-after_filtering_q30_rate: 0.921298
+  fastp_mqc-generalstats-fastp-filtering_result_passed_filter_reads: 6121922.0
+  fastp_mqc-generalstats-fastp-pct_adapter: 0.9242860064665207
+  fastp_mqc-generalstats-fastp-pct_duplication: 2.0871299999999997
+  fastp_mqc-generalstats-fastp-pct_surviving: 95.14404824588942
+SRR5962010_T1_1:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 11.628793503002626
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 9.090909090909092
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 44.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 3217186.0
+  Kallisto_mqc-generalstats-kallisto-fragment_length: 154.8
+  Kallisto_mqc-generalstats-kallisto-percent_aligned: 43.571741031656394
+  Kallisto_mqc-generalstats-kallisto-pseudoaligned_reads: 1333714.0
+SRR5962010_T1_2:
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-avg_sequence_length': 50.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-median_sequence_length': 50
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_duplicates': 5.85949007045204
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_fails': 27.27272727272727
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-percent_gc': 41.0
+  'FastQC: raw reads_mqc-generalstats-fastqc_raw_reads-total_sequences': 3217186.0

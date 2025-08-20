@@ -1,0 +1,132 @@
+SRR5961980_T1:
+  '%GC': 46.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: SRR5961980_T1.trimmed_1.gz
+  Sequence length: 15-50
+  Sequences flagged as poor quality: 0.0
+  Total Sequences: 2660755.0
+  adapter_content: pass
+  avg_sequence_length: 49.0485257004121
+  basic_statistics: pass
+  median_sequence_length: 50
+  overrepresented_sequences: warn
+  per_base_n_content: pass
+  per_base_sequence_content: warn
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: warn
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: warn
+  total_deduplicated_percentage: 79.50972256799524
+SRR5961981_T1:
+  '%GC': 42.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: SRR5961981_T1.trimmed_2.gz
+  Sequence length: 15-50
+  Sequences flagged as poor quality: 0.0
+  Total Sequences: 1901427.0
+  adapter_content: pass
+  avg_sequence_length: 48.59496735872584
+  basic_statistics: pass
+  median_sequence_length: 50
+  overrepresented_sequences: warn
+  per_base_n_content: pass
+  per_base_sequence_content: warn
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: warn
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: warn
+  sequence_duplication_levels: pass
+  sequence_length_distribution: warn
+  total_deduplicated_percentage: 90.335970979901
+SRR5961982_T1:
+  '%GC': 44.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: SRR5961982_T1.trimmed_1.gz
+  Sequence length: 15-50
+  Sequences flagged as poor quality: 0.0
+  Total Sequences: 2039958.0
+  adapter_content: pass
+  avg_sequence_length: 49.12139269533981
+  basic_statistics: pass
+  median_sequence_length: 50
+  overrepresented_sequences: warn
+  per_base_n_content: pass
+  per_base_sequence_content: warn
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: warn
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: warn
+  total_deduplicated_percentage: 85.49297921260543
+SRR5962008_T1:
+  '%GC': 44.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: SRR5962008_T1.trimmed_1.gz
+  Sequence length: 15-50
+  Sequences flagged as poor quality: 0.0
+  Total Sequences: 2724006.0
+  adapter_content: pass
+  avg_sequence_length: 48.95411537272678
+  basic_statistics: pass
+  median_sequence_length: 50
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: warn
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: warn
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: warn
+  total_deduplicated_percentage: 95.81320033885356
+SRR5962009_T1:
+  '%GC': 44.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: SRR5962009_T1.trimmed_1.gz
+  Sequence length: 15-50
+  Sequences flagged as poor quality: 0.0
+  Total Sequences: 2693405.0
+  adapter_content: pass
+  avg_sequence_length: 49.04571611027677
+  basic_statistics: pass
+  median_sequence_length: 50
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: warn
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: warn
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: warn
+  total_deduplicated_percentage: 96.35987792879128
+SRR5962010_T1:
+  '%GC': 44.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: SRR5962010_T1.trimmed_1.gz
+  Sequence length: 15-50
+  Sequences flagged as poor quality: 0.0
+  Total Sequences: 3060961.0
+  adapter_content: pass
+  avg_sequence_length: 49.11149897042138
+  basic_statistics: pass
+  median_sequence_length: 50
+  overrepresented_sequences: warn
+  per_base_n_content: pass
+  per_base_sequence_content: warn
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: warn
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: warn
+  sequence_duplication_levels: pass
+  sequence_length_distribution: warn
+  total_deduplicated_percentage: 88.7737046222247

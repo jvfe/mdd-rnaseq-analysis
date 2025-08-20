@@ -1,0 +1,38 @@
+'FastQC: after preprocessing':
+  all_sections:
+    SRR5961980_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/33/SRR5961980_T1.trimmed_1_fastqc.zip
+    SRR5961981_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/30/SRR5961981_T1.trimmed_2_fastqc.zip
+    SRR5961982_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/35/SRR5961982_T1.trimmed_1_fastqc.zip
+    SRR5962008_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/37/SRR5962008_T1.trimmed_1_fastqc.zip
+    SRR5962009_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/27/SRR5962009_T1.trimmed_1_fastqc.zip
+    SRR5962010_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/31/SRR5962010_T1.trimmed_1_fastqc.zip
+'FastQC: raw reads':
+  all_sections:
+    SRR5961980_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/9/SRR5961980_T1_1_fastqc.zip
+    SRR5961980_T1_2: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/10/SRR5961980_T1_2_fastqc.zip
+    SRR5961981_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/5/SRR5961981_T1_1_fastqc.zip
+    SRR5961981_T1_2: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/6/SRR5961981_T1_2_fastqc.zip
+    SRR5961982_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/3/SRR5961982_T1_1_fastqc.zip
+    SRR5961982_T1_2: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/4/SRR5961982_T1_2_fastqc.zip
+    SRR5962008_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/11/SRR5962008_T1_1_fastqc.zip
+    SRR5962008_T1_2: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/12/SRR5962008_T1_2_fastqc.zip
+    SRR5962009_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/13/SRR5962009_T1_1_fastqc.zip
+    SRR5962009_T1_2: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/14/SRR5962009_T1_2_fastqc.zip
+    SRR5962010_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/7/SRR5962010_T1_1_fastqc.zip
+    SRR5962010_T1_2: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/8/SRR5962010_T1_2_fastqc.zip
+Kallisto:
+  all_sections:
+    SRR5961980_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/24/SRR5961980_T1.kallisto.log
+    SRR5961981_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/23/SRR5961981_T1.kallisto.log
+    SRR5961982_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/25/SRR5961982_T1.kallisto.log
+    SRR5962008_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/22/SRR5962008_T1.kallisto.log
+    SRR5962009_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/26/SRR5962009_T1.kallisto.log
+    SRR5962010_T1_1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/21/SRR5962010_T1.kallisto.log
+fastp:
+  all_sections:
+    SRR5961980_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/18/SRR5961980_T1.fastp.json
+    SRR5961981_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/15/SRR5961981_T1.fastp.json
+    SRR5961982_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/20/SRR5961982_T1.fastp.json
+    SRR5962008_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/16/SRR5962008_T1.fastp.json
+    SRR5962009_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/17/SRR5962009_T1.fastp.json
+    SRR5962010_T1: /storages/acari/joaovitor.cavalcante/mdd-rnaseq-analysis/mdd-rnaseq/work/6f/d48a72038e64afaad5c14c8ee8fc6a/19/SRR5962010_T1.fastp.json
