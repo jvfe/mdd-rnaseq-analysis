@@ -245,3 +245,8 @@ work/
 .nextflow*
 null/
 
+*fastq
+*fastq.gz
+*fa
+*gtf
+*idx

@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2
+SRR5961980,data/sra_data_downsampled/SRR5961980_1.fastq.gz,data/sra_data_downsampled/SRR5961980_2.fastq.gz
+SRR5961981,data/sra_data_downsampled/SRR5961981_1.fastq.gz,data/sra_data_downsampled/SRR5961981_2.fastq.gz
+SRR5961982,data/sra_data_downsampled/SRR5961982_1.fastq.gz,data/sra_data_downsampled/SRR5961982_2.fastq.gz
+SRR5962008,data/sra_data_downsampled/SRR5962008_1.fastq.gz,data/sra_data_downsampled/SRR5962008_2.fastq.gz
+SRR5962009,data/sra_data_downsampled/SRR5962009_1.fastq.gz,data/sra_data_downsampled/SRR5962009_2.fastq.gz
+SRR5962010,data/sra_data_downsampled/SRR5962010_1.fastq.gz,data/sra_data_downsampled/SRR5962010_2.fastq.gz

@@ -6,11 +6,11 @@ mkdir -p sra_data_downsampled
 
 SEED=1024
 # Fraction of reads to keep
-FRACTION=0.25
+FRACTION=0.05
 
 echo "--- Starting downsampling of FASTQ files ---"
 
-for r1 in sra_data_extracted/*_1.fastq.gz; do
+for r1 in sra_data/*_1.fastq.gz; do
   r2="${r1/_1.fastq.gz/_2.fastq.gz}"
   
   base=$(basename "$r1" _1.fastq.gz)
