@@ -117,8 +117,6 @@ if (length(sig_transcripts) > 0) {
     
     if (!is.null(go_enrich_tx) && nrow(go_enrich_tx@result) > 0) {
         write.csv(go_enrich_tx@result, "results/GO_enrichment_TRANSCRIPT_results.csv")
-        go_plot_tx <- dotplot(go_enrich_tx, showCategory = 20) + ggtitle("GO Enrichment (Transcript Level)")
-        ggsave("results/GO_enrichment_TRANSCRIPT_dotplot.png", plot = go_plot_tx, width = 10, height = 8)
     } else {
         message("No significant GO terms found for transcript-level results.")
     }
